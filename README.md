@@ -4,7 +4,7 @@ Your words our work
 
 ## Project Description
 
-This is a fully responsive survey form with really cool ui and awesome styling.
+This is a fully **Responsive** survey form with really cool ui and awesome styling.
 Includes a survey form where you can add your - 
 * Name
 * Age
@@ -13,4 +13,4 @@ Includes a survey form where you can add your -
 
 with that there are some questions that you have to answer.
 
-I also have used javascript to add form validation in the code and for popup animation.
+I also have used **Javascript** to add form validation in the code and for popup animation.
